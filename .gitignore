@@ -1,0 +1,26 @@
+# API keys — never commit these
+backend/.env
+
+# Python
+backend/venv/
+**/__pycache__/
+**/*.pyc
+*.log
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Temp files from WNTR/EPANET
+backend/temp.*
+backend/data/*.rpt
+
+# LinkedIn draft — local only
+linkedin_post.txt
+
+# Claude Code local settings
+.claude/
+
+# Video recordings
+*.mp4
+*.mov
