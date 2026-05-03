@@ -15,7 +15,6 @@ frontend/dist/
 backend/temp.*
 backend/data/*.rpt
 
-# LinkedIn draft — local only
 linkedin_post.txt
 
 # Claude Code local settings
