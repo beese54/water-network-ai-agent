@@ -2,7 +2,7 @@
 
 A full-stack hydraulic simulation platform for the Bukit Batok water distribution network in Singapore. Engineers can run emergency shutdown analyses, simulate pressure and flow across 1,503 nodes, and query an AI agent that walks through the full impact assessment in natural language.
 
-<video src="https://github.com/beese54/water-network-ai-agent/releases/download/v1.0.0/water_distribution_modelling_video.mp4" controls width="100%"></video>
+<video src="https://github.com/beese54/water-network-ai-agent/raw/master/water_distribution_modelling_video.mp4" controls width="100%"></video>
 
 ---
 
