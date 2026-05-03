@@ -15,8 +15,6 @@ frontend/dist/
 backend/temp.*
 backend/data/*.rpt
 
-linkedin_post.txt
-
 # Claude Code local settings
 .claude/
 
